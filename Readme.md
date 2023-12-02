@@ -51,6 +51,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
+  <img src="https://download.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-ide/eclipse_logo.svg" height="40" alt="androidstudio logo"  />
 </div>
 <h4 align="left"> Databases: </h4>
 <div align="left">
