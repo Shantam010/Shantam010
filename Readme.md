@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning backend development **Spring Boot Microservices**
 - 💬 Ask me about **Java 8, Spring Framework, Microservices Architecture**
-- 📫 reach me at **lavsingh1098@gmail.com**
+- 📫 reach me at **shantamsingh1011@gmail.com**
 
 ###
 
