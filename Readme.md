@@ -3,25 +3,23 @@
 
 <h3 align="center">A young-dumb 💻 software developer from India 🇮🇳</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantam010&label=Profile%20views&color=0e75b6&style=flat" alt="shantam010" /> </p>
+<img align = "right" height="150" src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg"/>
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning backend development **Spring Boot Microservices**
 - 💬 Ask me about **Java 8, Spring Framework, Microservices Architecture**
-- 📫 reach me at **shantamsingh1011@gmail.com**
-
-###
-
-<img align = "right" height="150" src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg"/>
-
-###
+- 📫 Reach me at **shantamsingh1011@gmail.com**
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shantam-singh-10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/shantam-singh-10/" height="30" width="40" /></a>
-  
-  </a>
-  </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shantam-singh-10/"><img src="https://img.shields.io/badge/-Shantam%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:shantamsingh1011@gmail.com"><img src="https://img.shields.io/badge/-shantamsingh1011@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/Shantam010/"><img src="https://img.shields.io/badge/-Shantam010-E4405F?style=flat&logo=Leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/Shantam10"><img src="https://img.shields.io/badge/-Shantam10-96D491?style=flat&logo=hackerrank&logoColor=white"/></a>
+</p>
 
 ###
 <h3 align="left">Languages and Tools:</h3>
@@ -96,7 +94,7 @@
 ###
 
 ###
-<h3 align="left">Operating Systems:</h3>
+<h4 align="left">Operating Systems:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -112,3 +110,22 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" height="50" alt="ios logo"  />
 </div>
+
+<br>
+<h3 align="left">GitHub Analytics </h3>
+
+<p align="center">
+<a href="https://github.com/SatyamSingh25">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SatyamSingh25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+</a>
+</p>
+
+<!-- <p>
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantam010&show_icons=true&locale=en&layout=compact" alt="shantam010" /></p> 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantam010&show_icons=true&locale=en" alt="shantam010" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantam010&" alt="shantam010" /></p>
+-->
