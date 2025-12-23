@@ -75,18 +75,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-<h4 align="left"> Other useful tools: </h4>
+<h4 align="left"> Other Useful Tools: </h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" height="40" alt="maven logo"  />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman" />
+  <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" height="40" alt="REST API" />
+  <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" height="40" alt="Swagger" />
+  <img width="12" />
 </div>
-<h4 align="left"> testing tools: </h4>
+<h4 align="left"> Testing Tools: </h4>
 <div align="left">
   <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" height="50" alt="Junit5 logo"  />
+  <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png"  height="50" alt="mockito logo"  />
 
 </div>
@@ -97,7 +104,7 @@
 <h4 align="left">Operating Systems:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
+  <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50" alt="apple logo"  />
@@ -121,11 +128,3 @@
 </a>
 </p>
 
-<!-- <p>
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantam010&show_icons=true&locale=en&layout=compact" alt="shantam010" /></p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantam010&show_icons=true&locale=en" alt="shantam010" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantam010&" alt="shantam010" /></p>
--->
