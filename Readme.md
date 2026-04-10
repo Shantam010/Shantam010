@@ -74,6 +74,8 @@
   <img src="https://github.com/Shantam010/Shantam010/assets/42248219/a362b1d2-0ee7-4a0c-8e12-470cd3356172" height="40" alt="couchbasedb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
 </div>
 <h4 align="left"> Other Useful Tools: </h4>
 <div align="left">
